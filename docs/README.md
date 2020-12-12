@@ -1,33 +1,18 @@
 # 01 HTML CSS Git: Code Refactor
 
+
+![Website Deployed](../images/website-screenshot.png)
 ## Description  
 
-Helping Horiseon Marketing
-
-
-
-## User Story
-
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Helping Horiseon Marketing agency refactor code to follow accessibility standards in order to optimize the website for search engine. When looking at the source code, semantic HTML elements are used, elements follow a logical structure, images have accessible alt attributes, headings fall in sequential order and there is a descriptive title.
 ```
 
-## Acceptance Criteria
+
+## Deployed Application Link
 
 ```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+https://hannamunoz.github.io/Code-Refactor/
+``` 
 
 
